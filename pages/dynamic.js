@@ -5,6 +5,7 @@ function DynamicPage({ subdomain }) {
         <div>
             hello chelo world cool
             DynamicPage {subdomain}
+            yuyuyuy
         </div>
     );
 }
