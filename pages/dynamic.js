@@ -3,7 +3,7 @@ import React from 'react';
 function DynamicPage({ subdomain }) {
     return (
         <div>
-            hello world
+            hello world123
             DynamicPage {subdomain}
         </div>
     );
